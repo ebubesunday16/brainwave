@@ -20,7 +20,7 @@ This is a simple React project with a clean, sleek, and modern design. Nothing o
 - **Animations**: React Parallax (because, why not)
 
 ## 📸 Preview
-![UI Screenshot](https://imgur.com/a/EfmJavn)
+![UI Screenshot](https://i.imgur.com/U8N28eM.png)
 
 
 
