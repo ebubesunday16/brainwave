@@ -17,13 +17,11 @@ This is a simple React project with a clean, sleek, and modern design. Nothing o
 - **Framework**: React
 - **Styling**: Tailwind CSS
 - **Icons**: Lucide
-- **Animations**: Framer Motion (because, why not)
+- **Animations**: React Parallax (because, why not)
 
 ## 📸 Preview
-![UI Screenshot](./assets/screenshot.jpg)
-![UI Screenshot](./assets/screenshot1.jpg)
-![UI Screenshot](./assets/screenshot2.jpg)
-![UI Screenshot](./assets/screenshot3.jpg)
+![UI Screenshot](https://imgur.com/a/EfmJavn)
+
 
 
 
