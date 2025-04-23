@@ -15,7 +15,7 @@ const Services = () => {
   return (
     <Section id="how-to-use">
         <div className='container'>
-            <Heading title="Generative AI made for creators" text="Brainwave unlocksthe potential of AI-Powered applications "/>
+            <Heading title="Generative AI made for creators" text="Sleek unlocksthe potential of AI-Powered applications "/>
 
             <div className='relative'>
                 <div className='relative z-1 flex  items-center h-[39rem] mb-5 p-8 border border-n-1/10 rounded-3xl overflow-hidden lg:p-20 xl:h-[46rem]'>
@@ -30,7 +30,7 @@ const Services = () => {
 
                     <div className='relative z-1 max-w-[17rem] ml-auto'>
                         <h4 className='h4 mb-4'>Smartest AI</h4>
-                        <p className='body-2 mb-[3rem] text-n-3'>Brainwave unlocks the potential of AI-powered applications</p>
+                        <p className='body-2 mb-[3rem] text-n-3'>Sleek unlocks the potential of AI-powered applications</p>
                         <ul className='body-2 mt-5'>{brainwaveServices.map((item, index) => (
                             <li className="flex items-start py-4 border-t border-n-6" key={index}>
                                 <img 
