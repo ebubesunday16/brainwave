@@ -19,9 +19,23 @@ This is a simple React project with a clean, sleek, and modern design. Nothing o
 - **Icons**: Lucide
 - **Animations**: React Parallax (because, why not)
 
-## 📸 Preview
-![UI Screenshot](https://i.imgur.com/QgWNvSM.png)
+## 🖼️ Screenshots
 
+Snapshot of the hero section on my browser...
+
+![UI Screenshot](https://i.imgur.com/xVPT22a.png)
+
+And scrolling down a bit...
+
+![UI Screenshot](https://i.imgur.com/h0iYltI.png)
+
+If you look closely at the third item (yep, the robot thingy), you’ll catch that clean hover effect. All intentional. ✅
+
+![UI Screenshot](https://i.imgur.com/QzlXree.png)
+
+My device doesn’t really do it justice, so here’s a full preview to show it off properly:
+
+![UI Screenshot](https://i.imgur.com/QgWNvSM.png)
 
 
 
