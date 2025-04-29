@@ -1,6 +1,6 @@
 # 🧩 Sleek React UI – Built Just Because It Looked Cool
 
-So I stumbled on this design while scrolling, and honestly... I couldn’t resist. It looked too good not to build. So here we are.
+So I stumbled on this design while doom scrolling, and honestly... I couldn’t resist. It looked too good not to build. So here we are.
 
 This is a simple React project with a clean, sleek, and modern design. Nothing over-engineered. Just something that looks good, feels good, and runs smooth.
 
